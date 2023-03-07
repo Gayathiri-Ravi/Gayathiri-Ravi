@@ -39,5 +39,5 @@
 
 - 👨‍💻 **Software Engineer**\
 📆 2021 - 2022\
-📍 ** BA Continnum** - Chennai, India.
+  📍 **BA Continnum** - Chennai, India.
   
