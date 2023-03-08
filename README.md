@@ -10,10 +10,10 @@
 </p>
 <hr />
 
-   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gayathiri-Ravi&theme=apprentice)
-   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gayathiri-Ravi&theme=default)
-   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gayathiri-Ravi&theme=default)
-   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gayathiri-Ravi&theme=default&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gayathiri-Ravi&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gayathiri-Ravi&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gayathiri-Ravi&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gayathiri-Ravi&theme=default&utcOffset=8)
     
 
 ### 🤝🏻 &nbsp;Connect with Me
