@@ -5,16 +5,14 @@
 <a href="https://github.com/Gayathiri-Ravi">
   
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gayathiri-Ravi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-   
-</a>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gayathiri-Ravi&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gayathiri-Ravi&theme=default"/>
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gayathiri-Ravi&theme=default&utcOffset=8"/>
+  
+  </a>
 </p>
 <hr />
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gayathiri-Ravi&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gayathiri-Ravi&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gayathiri-Ravi&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gayathiri-Ravi&theme=default&utcOffset=8)
-    
 
 ### 🤝🏻 &nbsp;Connect with Me
 
