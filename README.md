@@ -77,7 +77,7 @@ I love to Learn and Grow 📚🌱.
   <summary>📃 Resume</summary>
 
 <p align="left">
-<a href="http://gayathirircv.com/")><img src="(https://img.shields.io/badge/Standard%20Resume-2A3FFB.svg?style=for-the-badge&logo=Standard-Resume&logoColor=white")/></a>
+<a href="http://gayathirircv.com/")><img src="https://img.shields.io/badge/Standard%20Resume-2A3FFB.svg?style=for-the-badge&logo=Standard-Resume&logoColor=white"/></a>
 </p>
   
 ## Education
