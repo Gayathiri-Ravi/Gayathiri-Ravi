@@ -73,9 +73,13 @@ I love to Learn and Grow 📚🌱.
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 <details>
+ 
   <summary>📃 Resume</summary>
 
-
+<p align="left">
+<a href="http://gayathirircv.com/")><img src="(https://img.shields.io/badge/Standard%20Resume-2A3FFB.svg?style=for-the-badge&logo=Standard-Resume&logoColor=white")/></a>
+</p>
+  
 ## Education
   
 - 📖 **M.Tech CSE with specialization in AI and ML**\
