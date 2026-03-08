@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Gayathiri (but you can call me Mickey!)
 
+**Building intelligent AI & Data Science systems | Machine Learning | Generative AI | LLM | RAG | Demand Forecasting | Supply Chain AI | Python**
+
+---
 
 <p align="center">
 <a href="https://github.com/Gayathiri-Ravi">
@@ -17,99 +20,121 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/gayathiri-r-55b749161/"><img src="https://img.shields.io/badge/-Gayathiri-R?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/gayathiri-ravi/"><img src="https://img.shields.io/badge/-Gayathiri-R?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:gayathiriravi2106@gmail.com"><img src="https://img.shields.io/badge/-Gayathiri-Ravi?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 Welcome to my GitHub profile! 
 
-As a data science professional, I am passionate about leveraging data to drive insights and inform decision-making. With my experience in statistical modeling, machine learning, data analysis, and data visualization, I help organizations make informed decisions by translating complex data into meaningful insights.
+I'm Mickey - an AI engineer who loves solving open-ended problems, brewing good coffee, and building things that actually work in the real world. 
 
-Throughout my career, I have worked on various data science projects, including predictive modeling, natural language processing, image recognition, and more. These projects have allowed me to develop expertise in programming languages such as Python and R, as well as tools like TensorFlow, PyTorch, and scikit-learn.
+I am an **AI & Data Science professional** building intelligent systems that help organizations make better operational and strategic decisions — with deep expertise across **Machine Learning, Generative AI, and Supply Chain Intelligence**.
 
-On my Github profile, you can find examples of some of the projects I have worked on, demonstrating my skills and expertise in data science. I am always looking for new challenges and opportunities to learn and grow in this field, and I am excited to connect with other professionals who share my passion for data-driven insights.
+My work focuses on:
 
+🤖 Generative AI applications & LLM-powered RAG systems
 
-⚡Fun Fact:
+📦 Demand forecasting & supply chain analytics
 
-I am a coffee enthusiast ☕ and love trying new blends and brewing methods. I believe that a good cup of coffee is the perfect way to start the day.
+🔍 Predictive analytics & ML pipelines
 
-I am a bit of a fitness junkie 🏋️‍♀️ and enjoy running, weightlifting, and staying active. Staying fit and healthy helps me maintain focus and energy throughout the day.
+🧠 AI-driven decision intelligence systems
 
-I love to Learn and Grow 📚🌱.
+📊 NLP, segmentation & churn prediction
+
+I enjoy solving open-ended problems and building scalable AI solutions that create real-world business impact.
+
+---
 
 ## Skills:
 
 #### Languages
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### Data Analysis and Visualization
+#### Generative AI & LLM
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)&nbsp;
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge)&nbsp;
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)&nbsp;
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)
-![PowerBi](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
+#### Machine Learning & AI
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)&nbsp;
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-#### ML/DL
+#### Forecasting & Supply Chain AI
+![Prophet](https://img.shields.io/badge/Prophet-0066CC?style=for-the-badge)&nbsp;
+![LSTM](https://img.shields.io/badge/LSTM-FF6F00?style=for-the-badge)&nbsp;
+![ARIMA](https://img.shields.io/badge/ARIMA-47A248?style=for-the-badge)&nbsp;
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
 
-![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
-![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-#### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-
-#### Tools and Technologies
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-
-#### ETL Tools
-![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF.svg?style=for-the-badge&logo=Amazon-Redshift&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-49728B?style=for-the-badge&logo=jenkins&logoColor=white)
-
-#### Big Data Technologies
-
+#### Data Engineering & MLOps
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)&nbsp;
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)&nbsp;
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
-![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF.svg?style=for-the-badge&logo=Apache-Hadoop&logoColor=black)
 
-#### IDEs
+#### Visualization
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)&nbsp;
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)&nbsp;
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-<details>
- 
-  <summary>📃 Resume</summary>
+#### Cloud & Databases
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)&nbsp;
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+#### IDEs & Tools
+![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
+![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
-<p align="left">
-<a href="http://gayathirircv.com/")><img src="https://img.shields.io/badge/Standard%20Resume-2A3FFB.svg?style=for-the-badge&logo=Standard-Resume&logoColor=white"/></a>
-</p>
+---
+
+## 🎓 Education
+
+📖 **M.Tech CSE – AI & ML Specialization**
+
+📆 2019 – 2021 
   
-## Education
+📍 Vellore Institute of Technology
+
+📖 **B.E Computer Science & Engineering**
+
+📆 2015 – 2019 
   
-- 📖 **M.Tech CSE with specialization in AI and ML**\
-📆 2019 - 2021\
-📍 **Vellore Institute of Technology** - Vellore, India.
+📍 Panimalar Institute of Technology
 
-- 📖 **B.E Computer Science and Engineering**\
-📆 2015 - 2019\
-📍 **Panimalar Institute of Technology** - Chennai, India.
+---
 
-## Experience
+## 💼 Experience
 
+👩‍💻 **AI Decision Science Analyst** | Accenture, Bengaluru
 
-- 👨‍💻 **Software Engineer**\
-📆 2021 - 2022\
-  📍 **BA Continnum** - Chennai, India.
+  📆 May 2025 – Aug 2025
+
+👩‍💻 **Business Operations & Data Science Consultant**
+
+  📆 Jul 2022 – May 2025
+
+👩‍💻 **Software Engineer I-B** | Bank of America, Chennai
+
+  📆 Jul 2021 – May 2022
+
+---
+
+⚡ **Fun Facts**
+
+☕ Coffee enthusiast — a good cup fuels great ideas
+
+🏋️‍♀️ Fitness junkie — running & weightlifting keep me sharp
+
+📚 Continuously upskilling across AI, GenAI & applied ML  
+
   
