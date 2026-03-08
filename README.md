@@ -28,7 +28,7 @@ Welcome to my GitHub profile!
 
 I'm Mickey - an AI engineer who loves solving open-ended problems, brewing good coffee, and building things that actually work in the real world. 
 
-I am an **AI & Data Science professional** building intelligent systems that help organizations make better operational and strategic decisions — with deep expertise across **Machine Learning, Generative AI, and Supply Chain Intelligence**.
+I am an **AI & Data Science professional** building intelligent systems that help organizations make better operational and strategic decisions - with deep expertise across **Machine Learning, Generative AI, and Supply Chain Intelligence**.
 
 My work focuses on:
 
